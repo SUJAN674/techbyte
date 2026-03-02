@@ -1,0 +1,60 @@
+<div class="section" id="projects">
+        <h2>🚀 PROJECTS</h2>
+        <div class="cars">
+            <div class="car">🚗 Autonomous Self-Driving Car Simulation
+                <button class="card-btn">GitHub</button>
+            </div>
+
+            <div class="car">📸 Smart Attendance System (Face Recognition)
+                <button class="card-btn">GitHub</button>
+            </div>
+
+            <div class="car">🩺 Disease Prediction System
+                <button class="card-btn">GitHub</button>
+            </div>
+
+            <div class="car">📊 Student Marks Prediction System
+                <button class="card-btn">GitHub</button>
+            </div>
+
+            <div class="car">📄 Resume Screening System using AI
+                <button class="card-btn">GitHub</button>
+            </div>
+
+            <div class="car">🏠 Voice Controlled Home Automation
+                <button class="card-btn">GitHub</button>
+            </div>
+
+            <div class="car">🤖 AI Virtual Assistant (Alexa Mini)
+                <button class="card-btn">GitHub</button>
+            </div>
+
+
+            <div class="car">🌾 Smart Agriculture System (AI + IoT)
+                <button class="card-btn">GitHub</button>
+            </div>
+
+            <div class="car">🏙️ Smart City Management using AI
+                <button class="card-btn">GitHub</button>
+            </div>
+
+            <div class="car"> 📱Personal Finance Manager
+                <button class="card-btn">GitHub</button>
+            </div>
+            <div class="car"> 🎮 Intelligent Tic-Tac-Toe Opponent
+                <button class="card-btn">GitHub</button>
+            </div>
+            <div class="car"> 🏢 Business Intelligence Dashboard
+                <button class="card-btn">GitHub</button>
+            </div>
+            <div class="car"> 📚 Library Management System
+                <button class="card-btn">GitHub</button>
+            </div>
+            <div class="car"> 🛒 E-Commerce Shopping System
+                <button class="card-btn">GitHub</button>
+            </div>
+            <div class="car"> 🧾 Payroll Management System
+                <button class="card-btn">GitHub</button>
+            </div>
+        </div>
+    </div>
